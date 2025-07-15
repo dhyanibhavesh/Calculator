@@ -65,4 +65,6 @@ Would you like a version with external JavaScript and CSS files separated for cl
 
 
 
-Ask ChatGPT
+
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/b2bb5bdc-b72a-4573-b0a1-a07b7985998a" />
